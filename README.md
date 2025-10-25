@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1>Languages</h1>
+<hr>
 <img alt="Static Badge" src="https://img.shields.io/badge/unity-%23FFFFFF?style=for-the-badge&logo=unity&logoColor=%23FFFFFF&logoSize=40&color=%23000000">
