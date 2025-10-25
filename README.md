@@ -1,23 +1,14 @@
-## Hi there 👋
 
-<!--
-**garden0512/garden0512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, there!
 
-Here are some ideas to get you started:
+I'm a university student and aspiring developer passionate about both big data and game development.
+Currently, I'm honing my skills and collaborating on a new project with my university's game dev club "Team ODD"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 
 ## Languages
----
 ### Main Languages
 ### Currently Learning
 ### Interest in
+## Tools
 <img alt="Static Badge" src="https://img.shields.io/badge/unity-%23FFFFFF?style=for-the-badge&logo=unity&logoColor=%23FFFFFF&logoSize=40&color=%23000000">
