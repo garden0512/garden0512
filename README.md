@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1><b>Languages</b></h1>
-<h3>Main</h3>
+<h2>Main</h2>
 <img alt="Static Badge" src="https://img.shields.io/badge/unity-%23FFFFFF?style=for-the-badge&logo=unity&logoColor=%23FFFFFF&logoSize=40&color=%23000000">
