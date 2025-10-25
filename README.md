@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Languages
+## Languages
+---
+### Main Languages
+### Currently Learning
+### Interest in
 <img alt="Static Badge" src="https://img.shields.io/badge/unity-%23FFFFFF?style=for-the-badge&logo=unity&logoColor=%23FFFFFF&logoSize=40&color=%23000000">
